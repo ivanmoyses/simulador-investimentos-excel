@@ -425,3 +425,12 @@ Este projeto não substitui a análise de um profissional habilitado e não cons
 **Ivan Moyses Ramos**
 
 Projeto desenvolvido como parte da minha jornada de formação em Excel, análise de dados e construção de soluções aplicadas a problemas de negócio.
+## Demonstração
+
+### Perfil Conservador
+
+![Simulação com perfil conservador](imagens/simulador-conservador.png)
+
+### Perfil Agressivo
+
+![Simulação com perfil agressivo](imagens/simulador-agressivo.png)
